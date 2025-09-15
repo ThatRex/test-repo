@@ -10,24 +10,24 @@
 Lookup a phone number.
 
 > **Parameters**  
-> `<number(s)>` : phone numbers to lookup, separated by a comma.
+> `<number(s)>` : Phone numbers to lookup, separated by a comma.
 
 ### `/number report`
 
 Report numbers to the carrier.
 
 > **Parameters**  
-> `<number(s)> ` : phone numbers to report, separated by a comma.  
-> `<type>      ` : the type of scam.  
-> `[extra-info]` : any additional information.
+> `<number(s)> ` : Phone numbers to report, separated by a comma.  
+> `<type>      ` : The type of scam.  
+> `[extra-info]` : Any additional information.
 
 ### `/number blocklist`
 
 Add or remove phone numbers from the report block list.
 
 > **Parameters**  
-> `<todo>     ` : add or remove...  
-> `<number(s)>` : phone numbers, separated by a comma.
+> `<todo>     ` : Add or remove...  
+> `<number(s)>` : Phone numbers, separated by a comma.
 
 ## Template
 
@@ -36,17 +36,17 @@ Add or remove phone numbers from the report block list.
 Add or update a report template.
 
 > **Parameters**  
-> `<type>` : scam type.
+> `<type>` : Scam type.
 
 > **Form Fields**  
-> `<subj>` : template subject (for emails.)  
-> `<body>` : template body.
+> `<subj>` : Template subject (for emails.)  
+> `<body>` : Template body.
 >
 > The following placeholders will be replaced:  
 > `{num-e}` : External phone number(s) to report.  
 > `{num-i}` : Internal phone number used to receive or make call.  
-> `{time} ` : timestamp of call.  
-> `{extra}` : extra info, should it be provided.
+> `{time} ` : Timestamp of call.  
+> `{extra}` : Extra info, should it be provided.
 
 ### `/template del`
 
