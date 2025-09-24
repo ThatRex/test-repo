@@ -40,4 +40,4 @@ D ─ Dependency Bump
 ```
 # 123
 
-<p><br><img width="222px" align="right" alt="Scatver Logo" src="./assets/scatcat.png" /><br><br><br><br><h1></h1></p>
+<p><br><img width="222px" align="right" alt="Scatver Logo" src="https://github.com/user-attachments/assets/1d5d9385-905b-47b7-928a-f5480d26bb3d" /><br><br><br><br><h1></h1></p>
